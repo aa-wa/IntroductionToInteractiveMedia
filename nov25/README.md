@@ -1,7 +1,7 @@
 # 
 
 ![](picture1.jpg)
-![](schematic.jpg)
+![](schematic1.jpg)
 
 # Final Project Concept
 
